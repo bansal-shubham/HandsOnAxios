@@ -1,0 +1,34 @@
+{
+   "reminders":[
+	{
+		"id" :"1",
+		"reminder" : "Have Some Rest",
+		"time" : "5:20pm"
+	},
+	{
+		"id" :"2",
+		"reminder" : "Take Dog Out for a walk",
+		"time" : "6:00pm"
+	},
+	{
+		"id" :"3",
+		"reminder" : "Send Invoice to client",
+		"time" : "8:00am"
+	},
+	{
+		"id" :"4",
+		"reminder" : "Buy Birthday Gift",
+		"time" : "5:45pm"
+	},
+	{
+		"id" :"5",
+		"reminder" : "Take a Break",
+		"time" : "4:00pm"
+	},
+	{
+		"id" :"6",
+		"reminder" : "Buy Groceries",
+		"time" : "9:00am"
+	}
+  ]
+}
